@@ -1,0 +1,11 @@
+name: wartimer
+version: '${project.version}'
+main: org.oreo.wartimer.Wartimer
+api-version: '1.20'
+
+commands:
+  warTimer:
+    description: A command to set a war for a specific amount of time
+    usage: /<command>
+    aliases:
+      - warTimer

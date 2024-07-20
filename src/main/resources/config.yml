@@ -1,0 +1,2 @@
+wasWarPaused: false #Checks weather the war was paused
+shutDownTimer: 0 #The time left till war end will be saved here
